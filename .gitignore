@@ -1,6 +1,5 @@
-*.class
-
-# Package Files #
-*.jar
-*.war
-*.ear
+public Class MonopolyGame{
+  public static void main(String[] args){
+    
+  }
+}
